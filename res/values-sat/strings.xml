@@ -37,7 +37,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="txt_donation">Do you want to support me? Thanks! Find how here:</string>
     <string name="btn_link_donate">ᱥᱟᱯᱚᱴ</string>
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
-    <string name="hint_editNumber">Number</string>
+    <string name="hint_editNumber">ᱮᱞ</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
     <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>

@@ -18,7 +18,7 @@ If you added/modified the following file add your name here to give credit:
     <string name="translated">.</string>
     When translated, remove this line  -->
     <string name="app_name">ᱪᱟᱴ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ</string>
-    <string name="txt_about">App created by TrianguloY. This app is not affiliated with WhatsApp Inc.</string>
+    <string name="txt_about">ᱮᱯᱯ ᱫᱚ TrianguloY ᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱫᱟᱭ ᱾ ᱱᱚᱶᱟ ᱮᱞᱞ ᱫᱚ Whatsapp Inc. ᱥᱟᱞᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱥᱚᱢᱯᱚᱨᱠ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾.</string>
     <string name="txt_acknowledgements">"Acknowledgements:
 Thanks to %n for providing the %l locale translation!"</string>
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
@@ -41,18 +41,18 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
     <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
-    <string name="hint_itemName">name</string>
-    <string name="btn_openInWhatsapp">Open</string>
-    <string name="btn_shareLink">Share</string>
+    <string name="hint_itemName">ᱧᱩᱛᱩᱢ</string>
+    <string name="btn_openInWhatsapp">ᱠᱷᱩᱞᱟ</string>
+    <string name="btn_shareLink">ᱦᱟᱹᱴᱤᱧ</string>
     <string name="btn_shortcut">Shortcut</string>
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
     <string name="chk_alternate">Use alternate url when opening (may show more compatible apps)</string>
     <string name="btn_addonLink">Addon</string>
-    <string name="btn_link_playstore_open">Play Store (open)</string>
-    <string name="btn_link_playstore_share">Play Store (share)</string>
-    <string name="btn_link_apppage">App page</string>
+    <string name="btn_link_playstore_open">Play Store (ᱠᱷᱩᱟᱞᱹᱭ)</string>
+    <string name="btn_link_playstore_share">Play Store (ᱦᱟᱹᱴᱤᱧ)</string>
+    <string name="btn_link_apppage">ᱮᱯᱯ ᱥᱟᱦᱴᱟ</string>
     <string name="btn_link_faq">Frecuently asked questions\n(FAQ) [English only]</string>
     <string name="btn_link_helptranslations">Translate</string>
     <string name="error_badData">Error while opening. Incorrect data</string>
@@ -88,10 +88,10 @@ Check the prefix!"</string>
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
     <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
-    <string name="addon_btn_grant">Grant access</string>
+    <string name="addon_btn_grant">ᱢᱚᱸᱧᱡᱩᱨᱤ ᱮᱢᱚᱜ ᱢᱮ</string>
     <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
-    <string name="lbl_shortcut">Open a chat with %s</string>
+    <string name="lbl_shortcut">%s ᱥᱟᱞᱟᱜ ᱪᱟᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
     <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the [[oiw|full app]] (note: not all versions are supported).</string>
-    <string name="title_instantApp">Instant app</string>
+    <string name="title_instantApp">ᱤᱱᱥᱴᱟᱸᱴ ᱮᱯᱯ</string>
     <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
 </resources>
